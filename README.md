@@ -1,1 +1,1 @@
-# Covid-19-DataAnalysis-Using-SQL
+# Covid 19 Data Analysis Using SQL
